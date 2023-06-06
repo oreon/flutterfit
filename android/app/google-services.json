@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "966778326302",
+    "firebase_url": "https://aid4-9f239.firebaseio.com",
+    "project_id": "aid4-9f239",
+    "storage_bucket": "aid4-9f239.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:966778326302:android:d85c6d9666044e5c",
+        "android_client_info": {
+          "package_name": "com.oreon.aid4"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "966778326302-43oi8a287p172rmet4ffolrhm0vkn7kn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.oreon.aid4",
+            "certificate_hash": "bb24536bfce87ccf832efd925dca261f871b53f4"
+          }
+        },
+        {
+          "client_id": "966778326302-kukl7bno05gi2pqtcbreaavet41c20o2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCW8S2U9gRGKMlpxzMuiq3IIKdFZpMNmvA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "966778326302-kukl7bno05gi2pqtcbreaavet41c20o2.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "966778326302-k5ms5isd4houmgebp99j5o1nqupirbtb.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.oreon.aid4"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

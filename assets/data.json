@@ -1,0 +1,15 @@
+{
+    "breakfast": {
+      "title": "Breakfast - 1 kg fruits and a smoothie",
+      "description": "Your favourite frutis"
+    },
+    "lunch": {
+      "title": "Lunch - 500 gm salad followed by your normal lunch",
+      "description": "Try to replace wheat with millets and don't use animal products"
+    },
+    "dinner": {
+      "title": "Dinner - fruit icecream and delicious protien",
+      "description": "Kidney beans / Chic peas/ Daal"
+    }
+  }
+  
